@@ -1,1 +1,1 @@
-This project demonstrate how diffrent wallets can be created by using one mnenomic.
+This project demonstrate how different wallets can be created by using one mnenomic.
