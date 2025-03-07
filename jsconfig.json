@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "skipLibCheck": true,
+    "paths": {
+      "@chakra-ui/react/*": ["./node_modules/@chakra-ui/react/dist/esm/*"],
+      "@ark-ui/react/*": ["./node_modules/@ark-ui/react/dist/esm/*"],
+      "@/*": ["src/*"]
+    },
+    "baseUrl" : ".",
+  }
+}
